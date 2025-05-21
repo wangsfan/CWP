@@ -1,5 +1,3 @@
-# CWPrompt-main
-
 ## Introduction
 This is our implementation of our paper *Class-Weighted Prompt Learning for Rehearsal-Free Class-Incremental Learning*.
 
@@ -40,6 +38,7 @@ conda activate CWPrompt
 The code is written for python `3.8.18`, but should work for other version with some modifications.
 ```
 pip install -r requirements.txt
+```
 
 
 
